@@ -5,6 +5,7 @@ import { TodoList } from './ToDoList';
 describe('<TodoList/>', () => {
     let getByTestId;
     let getByText;
+    let getAllByText;
     let queryByTestId;
     let UNSAFE_getAllByType;
     let queryByText;

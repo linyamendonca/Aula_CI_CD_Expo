@@ -199,3 +199,5 @@ const styles = StyleSheet.create({
     fontSize: 14,
   },
 });
+
+// teste atividade do JP CI/CD Expo
